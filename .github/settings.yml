@@ -1,6 +1,6 @@
 ---
 repository:
-  name: cloud
+  name: ansible-cloud
   description: Ansible role to install cli for multiple cloud providers
   topics: ansible, role, ansible-role, hacktoberfest
 
