@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.66.0](https://github.com/rolehippie/cloud/compare/v2.65.1...v2.66.0) (2026-11-23)
+
+* automated readme update [skip ci] ([6b91175](https://github.com/rolehippie/cloud/commit/6b91175a525720fe46996bab6e9a25af3dd168da))
+* automated release update [skip ci] ([5c0318f](https://github.com/rolehippie/cloud/commit/5c0318ffd96865f18c2c613c2006f9846722bf44))
+* automated release update [skip ci] ([46c36d9](https://github.com/rolehippie/cloud/commit/46c36d9778dfb358289c374463032c20c088a3b1))
+
+### Dependencies
+
+* **minor:** update dependency eksctl-io/eksctl to v0.232.0 ([#204](https://github.com/rolehippie/cloud/issues/204)) ([91afc1b](https://github.com/rolehippie/cloud/commit/91afc1b6d058267caefc424ac311ca78c53e388d))
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#198](https://github.com/rolehippie/cloud/issues/198)) ([206dc34](https://github.com/rolehippie/cloud/commit/206dc34bb01fbc55dde5bb638c1d497f9ccf3004))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#202](https://github.com/rolehippie/cloud/issues/202)) ([3cce0ca](https://github.com/rolehippie/cloud/commit/3cce0ca483784aed89d86855b04df608908cc923))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#200](https://github.com/rolehippie/cloud/issues/200)) ([040f7a7](https://github.com/rolehippie/cloud/commit/040f7a785daa6da2c436d7535eda4215d86eeb38))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#201](https://github.com/rolehippie/cloud/issues/201)) ([c4f4787](https://github.com/rolehippie/cloud/commit/c4f4787865ed5190198b0f00bee6fa7233842fae))
+* **mise:** update dependency prek to v0.5.10 ([#199](https://github.com/rolehippie/cloud/issues/199)) ([e4b04e5](https://github.com/rolehippie/cloud/commit/e4b04e570d6f736ee46647799631234384ba6055))
+* **mise:** update dependency prek to v0.5.11 ([#203](https://github.com/rolehippie/cloud/issues/203)) ([034d70c](https://github.com/rolehippie/cloud/commit/034d70c5af0981c97431dfc5d5187f60e801a91e))
+* **mise:** update dependency prek to v0.5.9 ([#197](https://github.com/rolehippie/cloud/issues/197)) ([f36e4a0](https://github.com/rolehippie/cloud/commit/f36e4a0f30bc24525f203bd2ecd41bbefc3b3a72))
+* **mise:** update node.js to v26 ([#196](https://github.com/rolehippie/cloud/issues/196)) ([b8a01cc](https://github.com/rolehippie/cloud/commit/b8a01cc9e7d979438688bc999d7f112ed193cea4))
+
 ## [2.65.1](https://github.com/rolehippie/cloud/compare/v2.65.0...v2.65.1) (2026-10-26)
 
 ### Dependencies
